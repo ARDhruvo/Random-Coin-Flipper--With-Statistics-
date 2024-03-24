@@ -54,7 +54,7 @@ class CoinCalc {
     } else if (h > t) {
       percCalc(h, f, "Heads");
     } else {
-      percCalc(h, f, "Tails");
+      percCalc(t, f, "Tails");
     }
   }
 
