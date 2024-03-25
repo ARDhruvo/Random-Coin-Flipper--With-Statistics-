@@ -1,3 +1,8 @@
+/* 
+ * @author Kashikizu
+ * Initial Completion Date: 23/3/2024 (dd/mm/yyyy)
+ */
+
 import 'dart:math';
 
 void main() {
@@ -67,7 +72,7 @@ class CoinCalc {
   }
 
   int rand() {
-    int value = Random().nextInt(10);
+    int value = Random().nextInt(6969);
     return value;
   }
 }
